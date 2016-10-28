@@ -1,2 +1,4 @@
-# cs-287
-Code for CS 287
+# MemN2N
+End-to-end Memory Networks in Torch
+
+by Carl Denton, Rohil Prasad, and Shai Szulanski
